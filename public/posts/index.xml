@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts Archive on Mu-Tsing's Website</title><link>http://localhost:1313/posts/</link><description>Recent content in Posts Archive on Mu-Tsing's Website</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 09 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Post 1</title><link>http://localhost:1313/posts/post-1/</link><pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/post-1/</guid><description>&lt;p>This is&lt;/p>
+&lt;h2 id="sec-1">
+ Sec 1
+ &lt;a class="anchor" href="#sec-1">#&lt;/a>
+&lt;/h2>
+&lt;h2 id="sec-2">
+ SEc 2
+ &lt;a class="anchor" href="#sec-2">#&lt;/a>
+&lt;/h2></description></item></channel></rss>

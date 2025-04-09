@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematics on Mu-Tsing&#39;s Website</title>
+    <link>http://localhost:1313/docs/notes/math/</link>
+    <description>Recent content in Mathematics on Mu-Tsing&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/notes/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trellis Graph and Its Application</title>
+      <link>http://localhost:1313/docs/notes/math/2025-04-08-trellis-graph-and-its-application/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/notes/math/2025-04-08-trellis-graph-and-its-application/</guid>
+      <description>&lt;h1 id=&#34;trellis-graph-and-its-application&#34;&gt;&#xA;  Trellis Graph and Its APplication&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#trellis-graph-and-its-application&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
