@@ -8,14 +8,17 @@ Hi, I am Mu-Tsing (慕青), a first year Ph.D. student at CUHK, Shenzhen campus.
 
 
 ## On Hand Things
-- Matroid Theory
-  - Fundamentals
+### Mathematics
+- Algebra Related
+  - Matroid Theory
+  - Sheaf Theory
+  
 - Coding Theory
-  - Linear Block Code
-    - [Trellis Graph and Its Complexity](./docs/notes/mathematics/trellis-graph/)
+
 
 
 ## Website Features Update
+- [ ] Image Embeding Support. 2025-04-11
 
 - [x] Math Equation Support. 2025-04-10
 
