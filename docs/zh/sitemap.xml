@@ -15,18 +15,6 @@
                 href="http://localhost:1313/zh/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/posts/"
-                />
-  </url><url>
     <loc>http://localhost:1313/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -61,6 +49,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://localhost:1313/zh/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/posts/"
                 />
   </url>
 </urlset>
