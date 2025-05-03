@@ -4,16 +4,16 @@ date: 2025-04-09
 type: docs
 ---
 # Home Page
-Hi, I am Mu-Tsing (慕青), a first year Ph.D. student at CUHK, Shenzhen campus. I am interested in general mathematics and compute science. 
+Hi, I am Mu-Tsing (慕青), a first year Ph.D. student at CUHK, Shenzhen Campus. I am interested in general mathematics and compute science. Recently, I am doing some formalization work and learn AI for Mathematical Proof.
 
 
 ## On Hand Things
-### Mathematics
-- Algebra Related
-  - Matroid Theory
-  - Sheaf Theory
-  
-- Coding Theory
+- Lean Learning
+  - Review the Mathematics in Lean
+    - Finish a formalization project.
+  - Metaprogramming in Lean
+
+- Deep Learning, LLM
 
 
 
